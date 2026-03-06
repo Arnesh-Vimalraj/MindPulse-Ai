@@ -1,0 +1,12 @@
+fastapi==0.110.0
+uvicorn==0.27.1
+websockets==12.0
+pydantic
+google-generativeai
+supabase
+python-dotenv
+flask
+flask-cors
+numpy
+scipy
+Pillow

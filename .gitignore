@@ -1,0 +1,22 @@
+# Node
+node_modules/
+dist/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.venv/
+
+# AI Models
+ai-models/checkpoints/
+
+# Datasets
+datasets/
+
+# Build
+build/
+.DS_Store
